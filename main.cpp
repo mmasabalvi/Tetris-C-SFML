@@ -1,4 +1,4 @@
-/* PROGRAMMI32NG FUNDAMENTAL'S PROJECT FOR FALL 2022 BS(CS)14 * You don't need to change anything in the driver code/main function except the part(s) where instructed.
+/* PROGRAMMING FUNDAMENTAL'S PROJECT FOR FALL 2022 BS(CS)14 * You don't need to change anything in the driver code/main function except the part(s) where instructed.
  * You are expected to define your functionalities in the "functionality.h" header and call them here in the instructed part(s).
  * The game is started with a small box, you need to create other possible in "pieces.h" file in form of array.
     E.g., Syntax for 2 pieces, each having four coordinates -> int Pieces[2][4];
